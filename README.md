@@ -52,3 +52,34 @@ A fun, interactive **Python Quiz** that tests the user’s programming knowledge
 
 ---
 
+### 3. 💰 Expense Tracker
+This is a simple **Expense Tracker Mini Project** built using **Python** and **Jupyter Notebook**.  
+It helps users record, view, and manage their daily expenses interactively.
+
+#### 🚀 Features
+- Allows users to **add new expenses** with amount, category, and description.  
+- Displays a **summary of total expenses**.  
+- Supports **deletion or editing** of entries (if implemented).  
+- Stores data temporarily in variables (can be extended with files or databases).  
+- Uses clear and user-friendly console prompts.
+
+#### 🧰 Technologies Used
+- Python 3  
+- Jupyter Notebook  
+
+#### 📂 How to Run
+1. Download the file [`Expense Tracker.ipynb`](Expense%20Tracker.ipynb).  
+2. Open it in **Jupyter Notebook** or **Google Colab**.  
+3. Run the notebook cell by cell.  
+4. Follow the on-screen options to add, view, or manage expenses.
+
+---
+
+## 🧰 Technologies Used (Overall)
+- Python 3  
+- Jupyter Notebook  
+
+---
+
+📍 MET’27 | Artificial Intelligence & Data Science  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link) • [GitHub](https://github.com/yourusername)
