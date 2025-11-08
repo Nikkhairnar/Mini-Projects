@@ -81,5 +81,41 @@ It helps users record, view, and manage their daily expenses interactively.
 
 ---
 
-📍 MET’27 | Artificial Intelligence & Data Science  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link) • [GitHub](https://github.com/yourusername)
+### 4. 🏧 ATM Simulation Project
+
+This is a simple **ATM Machine Simulation** mini-project built using Python and Jupyter Notebook.  
+It allows users to perform basic banking operations like checking balance, depositing money, withdrawing money, and exiting securely.
+
+---
+
+#### 🚀 Features
+- Secure login with **PIN authentication**
+- Check account balance
+- Deposit money
+- Withdraw money (with balance check)
+- User-friendly menu system
+- Input validation for safe transactions
+
+---
+
+#### 🧠 Concepts Used
+- Python functions & classes
+- Conditional statements (`if-elif-else`)
+- Loops
+- Exception handling (`try-except`)
+- Input handling
+
+---
+
+#### 🧰 Technologies
+- Python 3  
+- Jupyter Notebook  
+
+---
+
+#### 📂 How to Run
+1. Download the file [`ATM Project.ipynb`](ATM%20Project.ipynb)
+2. Open it in **Jupyter Notebook** or **Google Colab**
+3. Run all cells and follow on-screen options  
+
+---
