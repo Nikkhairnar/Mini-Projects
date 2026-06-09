@@ -116,6 +116,6 @@ It allows users to perform basic banking operations like checking balance, depos
 #### 📂 How to Run
 1. Download the file [`ATM Project.ipynb`](ATM%20Project.ipynb)
 2. Open it in **Jupyter Notebook** or **Google Colab**
-3. Run all cells and follow on-screen options  
+3. Run all cells and follow on-screen options.  
 
 ---
